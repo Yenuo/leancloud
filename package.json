@@ -11,7 +11,8 @@
     "debug": "~2.6.3",
     "ejs": "~2.5.6",
     "express": "~4.15.2",
-    "leanengine": "^3.0.2",
+    "leancloud-storage": "^3.0.0",
+    "leanengine": "^3.0.0",
     "morgan": "~1.8.1",
     "serve-favicon": "~2.4.2"
   },
